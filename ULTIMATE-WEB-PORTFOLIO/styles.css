@@ -90,9 +90,9 @@ section {
 }
 
 .imgContainer img {
-    /* border-radius: 100%; */
+    border-radius: 100%;
     width: 100%;
-    /* aspect-ratio: 1/1; */
+    aspect-ratio: 1/1;
     object-fit: cover;
 }
 
